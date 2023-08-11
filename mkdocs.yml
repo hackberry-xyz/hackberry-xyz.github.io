@@ -1,0 +1,11 @@
+site_name: Hackberry OS
+site_url: https://hackberry.xyz
+theme:
+  name: terminal
+  features:
+    - navigation.side.indexes
+nav:
+  - Home: index.md
+  - Sponsor: https://eval.blog/sponsor
+
+copyright: Created by Vikrant Singh Chauhan
